@@ -11,14 +11,14 @@ O foco destes projetos é demonstrar habilidades em **Python**, **R**, **SQL** e
 Este projeto utiliza Python para identificar dias de negociação com padrões atípicos (volume e preço), simulando a detecção de *insider trading* ou manipulação de mercado.
 
 * **Tecnologias:** Python, Pandas, yfinance, Scikit-learn (Isolation Forest), Matplotlib.
-* **Arquivo:** `projeto_anomalias.py` (ou `.ipynb`)
+* **Arquivo:** `projeto_anomalias.py`
 
 ## 📊 Projeto 2: Análise Exploratória do Conjunto Iris (R + Tidyverse)  
 
 Este projeto realiza uma análise estatística e visual do clássico conjunto *Iris*, investigando diferenças morfológicas entre três espécies de flores com base em medidas de pétalas e sépalas.
 
 * **Tecnologias:** R, tidyverse, rstatix, ggplot2  
-* **Arquivo:** exploratoria_iris.R 
+* **Arquivo:** `exploratoria_iris.R` 
 
 ## 🛡️ Projeto 3: Análise de Prevenção à Lavagem de Dinheiro (SQL + R + GLM)
 
