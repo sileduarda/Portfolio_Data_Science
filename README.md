@@ -13,10 +13,12 @@ Este projeto utiliza Python para identificar dias de negociação com padrões a
 * **Tecnologias:** Python, Pandas, yfinance, Scikit-learn (Isolation Forest), Matplotlib.
 * **Arquivo:** `projeto_anomalias.py` (ou `.ipynb`)
 
-## 🛡️ Projeto 2: Análise Exploratória 
+## 📊 Projeto 2: Análise Exploratória do Conjunto Iris (R + Tidyverse)  
 
-* **Tecnologias:** R, ggplot, tidyverse, rstatix.
-* **Arquivo:** 
+Este projeto realiza uma análise estatística e visual do clássico conjunto *Iris*, investigando diferenças morfológicas entre três espécies de flores com base em medidas de pétalas e sépalas.
+
+* **Tecnologias:** R, tidyverse, rstatix, ggplot2  
+* **Arquivo:** exploratoria_iris.R 
 
 ## 🛡️ Projeto 3: Análise de Prevenção à Lavagem de Dinheiro (SQL + R + GLM)
 
